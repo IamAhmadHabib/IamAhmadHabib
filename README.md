@@ -7,7 +7,7 @@
 <a href="https://www.linkedin.com/in/iamahmadhabib/"><img src="https://shieldcn.dev/badge/LinkedIn-Connect-0A66C2.svg?variant=default&size=lg&logo=linkedin" alt="LinkedIn" /></a>
 <a href="mailto:ahmadhabib2005@gmail.com"><img src="https://shieldcn.dev/badge/Email-Contact-EA4335.svg?variant=default&size=lg&logo=gmail" alt="Email" /></a>
 <a href="https://github.com/IamAhmadHabib"><img src="https://shieldcn.dev/badge/GitHub-IamAhmadHabib-181717.svg?variant=default&size=lg&logo=github" alt="GitHub" /></a>
-<a href="https://tryhackme.com"><img src="https://shieldcn.dev/badge/TryHackMe-Learning-212C42.svg?variant=default&size=lg&logo=tryhackme" alt="TryHackMe" /></a>
+<a href="https://tryhackme.com/p/IamAhmad"><img src="https://shieldcn.dev/badge/TryHackMe-Learning-212C42.svg?variant=default&size=lg&logo=tryhackme" alt="TryHackMe" /></a>
 
 <br /><br />
 
@@ -111,9 +111,9 @@
 | Result | Competition | Host | Year |
 | --- | --- | --- | --- |
 | <img src="https://shieldcn.dev/badge/Rank-1st-22c55e.svg?variant=default&size=sm&logo=ri:TrophyLine" alt="1st" /> | BCT CTF | COMSATS University | 2025, 2026 |
-| <img src="https://shieldcn.dev/badge/Rank-2nd-38bdf8.svg?variant=default&size=sm&logo=ri:TrophyLine" alt="2nd" /> | CHC CTF | - | 2025 |
+| <img src="https://shieldcn.dev/badge/Rank-2nd-38bdf8.svg?variant=default&size=sm&logo=ri:TrophyLine" alt="2nd" /> | CHC CTF | COMSATS University | 2025 |
 | <img src="https://shieldcn.dev/badge/Rank-3rd-f97316.svg?variant=default&size=sm&logo=ri:TrophyLine" alt="3rd" /> | CyberFest CTF | FAST University | 2025 |
-| <img src="https://shieldcn.dev/badge/Rank-2nd-38bdf8.svg?variant=default&size=sm&logo=ri:TrophyLine" alt="2nd" /> | Tech Jam CTF | PAF-KIET KPK | - |
+| <img src="https://shieldcn.dev/badge/Rank-2nd-38bdf8.svg?variant=default&size=sm&logo=ri:TrophyLine" alt="2nd" /> | Tech Jam CTF | PAF-KIET KPK | 2026 |
 
 <div align="center">
 
@@ -187,12 +187,11 @@
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=IamAhmadHabib&show_icons=true&hide_border=true&theme=github_dark&rank_icon=github&bg_color=020617&title_color=22c55e&icon_color=38bdf8&text_color=e2e8f0" width="49%" alt="GitHub stats" />
+
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=IamAhmadHabib&hide_border=true&theme=github-dark-blue&background=020617&ring=22c55e&fire=f97316&currStreakLabel=22c55e" width="49%" alt="GitHub streak" />
 
 <br />
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IamAhmadHabib&layout=compact&hide_border=true&theme=github_dark&bg_color=020617&title_color=22c55e&text_color=e2e8f0" width="42%" alt="Top languages" />
 
 <br /><br />
 
